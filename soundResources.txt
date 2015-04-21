@@ -1,0 +1,16 @@
+Sound resources
+
+freesound.org
+button - MultiMax2121
+explosion - escortmarius
+activate - Robinhood76
+placeTrap - ejfortin
+newlevel - unknown
+
+background - "Billions and Billions" by Stellardrone
+
+soundtracks
+	"Freefall" by Feint
+	"Infernoplex" by Dimrain47
+	"HyperionX" by ParagonX9
+	"Chaoz Devotion" by ParagonX9
